@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== 朱振宇 / Zhu Zhenyu
+
+~~~
+#{}{img_left}{photos/XXXXXXXXXXXX.jpeg}{alt text}{326px}{245px}
+[https://zhuzhenyu1997.github.io Zhu Zhenyu] \n
+Ph.D. student at [https://www.epfl.ch/en/ EPFL] \n
+Lausanne, Vaud, Switzerland \n
+\n
+Email: zhenyu.zhu@epfl.ch \n
+\[[https://scholar.google.com/citations?user=rft3OB4AAAAJ&hl=zh-CN Google Scholar]\] \n
+# \[[CV.pdf Curriculem Vitae]\] \n
+~~~
+
+# at Lausanne, Vaud, Switzerland. (March 18, 2022) (description of the photo)
+
+== News
+- \[09/2022\] Three papers are accepted to NeurIPS 2022!
+- \[09/2022\] Starting Ph.D. at EPFL!
+- \[01/2022\] One paper is accepted to ICLR 2022!
+
+== About me
+I'm an ELLIS Ph.D. student supervised by [https://people.epfl.ch/volkan.cevher?lang=en Volkan Cevher] at École Polytechnique Fédérale de Lausanne and co-supervised by [https://www.francescolocatello.com/ Francesco Locatello] at Amazon Web Services (AWS). Previously I obtained B.S. from USTC and M.S. from EPFL.
+
+== Education 
+- Ph.D. in École Polytechnique Fédérale de Lausanne, Sep. 2022 - Aug. 2026 (expected)
+- M.S. in École Polytechnique Fédérale de Lausanne, Sep. 2019 - Feb. 2022
+- B.S. in University of Science and Technology of China, Sep. 2015 - Jun. 2019
+
+== Research Interests 
+- Statistical Machine Learning, Deep Learning Theory
+
+== Visitors
+~~~
+{}{raw}
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
+~~~
