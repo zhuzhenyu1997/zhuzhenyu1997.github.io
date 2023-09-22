@@ -2,6 +2,12 @@
 == Publications 
 
 === Conference
+- Sample Complexity Bounds for Score-Matching: Causal Discovery and Generative Modeling \n
+*Zhenyu Zhu*, Francesco Locatello, Volkan Cevher \n
+In Proc. of Advances in Neural Information Processing Systems (*NeurIPS*) 36, New Orleans, LA, USA, 2023. \n\n
+- Initialization Matters: Privacy-Utility Analysis of Overparameterized Neural Networks \n
+Jiayuan Ye, *Zhenyu Zhu*, Fanghui Liu, Reza Shokri, Volkan Cevher \n
+In Proc. of Advances in Neural Information Processing Systems (*NeurIPS*) 36, New Orleans, LA, USA, 2023. \n\n
 - Benign Overfitting in Deep Neural Networks under Lazy Training \[[https://arxiv.org/abs/2305.19377 arxiv]\] \n
 *Zhenyu Zhu*, Fanghui Liu, Grigorios G Chrysos, Francesco Locatello, Volkan Cevher \n
 In Proc. of the 40th International Conference on Machine Learning (*ICML*), Honolulu, July 23-29, 2023. \n\n
